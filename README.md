@@ -50,3 +50,35 @@ Since this project does not use external libraries, you can compile it directly 
 
 ```bash
 g++ *.cpp -o osim_secure
+
+```
+
+## 📸 Project Gallery
+
+### 1. Security & Identity
+The core of OSIM is its secure authentication and immutable logging.
+
+| **MFA & Global Alerts** | **Immutable Audit Logs** |
+| :---: | :---: |
+| <img src="assets/1749394977146.jpg" alt="Login Sequence" width="400"> | <img src="assets/1749394977365.jpg" alt="Audit Trail" width="400"> |
+| *Login process showing OTP verification and system-wide notifications.* | *Real-time tracking of sensitive events (Logins, Tasks, Messages).* |
+
+<br>
+
+### 2. Operational Workflows
+Employees can manage resources and communicate securely without leaving the terminal.
+
+| **Task Lifecycle Management** | **Secure Messaging** |
+| :---: | :---: |
+| <img src="assets/1749394977316.jpg" alt="Task Manager" width="400"> | <img src="assets/1749394976078.jpg" alt="Secure Messaging" width="400"> |
+| *Detailed view of task attributes, deadlines, and status updates.* | *Internal messaging system with private/info classification.* |
+
+<br>
+
+### 3. Intelligence & Analytics
+The system actively monitors for threats and calculates employee productivity.
+
+| **Anomaly Detection** | **Performance Metrics** |
+| :---: | :---: |
+| <img src="assets/1749394976653.jpg" alt="Anomaly Report" width="400"> | <img src="assets/1749394976647.jpg" alt="Performance Report" width="400"> |
+| *Automated detection of brute force attacks and suspicious patterns.* | *Calculated scores based on task completion and efficiency.* |
