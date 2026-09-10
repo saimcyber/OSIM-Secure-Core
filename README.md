@@ -82,3 +82,19 @@ The system actively monitors for threats and calculates employee productivity.
 | :---: | :---: |
 | <img src="assets/1749394976653.jpg" alt="Anomaly Report" width="400"> | <img src="assets/1749394976647.jpg" alt="Performance Report" width="400"> |
 | *Automated detection of brute force attacks and suspicious patterns.* | *Calculated scores based on task completion and efficiency.* |
+
+## 📄 Runtime data
+
+The `*.txt` files (`users.txt`, `audit.txt`, `inbox_*.txt`, `profiles.txt`,
+`task.txt`, `global_notifications.txt`) are **created by the program at runtime**
+and are git-ignored. A fresh checkout starts with no users — register from the
+first-run menu.
+
+## 📝 Note
+
+This is an academic project. The "encryption" is shift-based obfuscation for
+teaching purposes, not real cryptography.
+
+## 📜 License
+
+MIT — see [LICENSE](LICENSE).
